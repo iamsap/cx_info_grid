@@ -1,0 +1,28 @@
+{
+  "name": "cx_info_grid",
+  "version": "1.0.0",
+  "description": "An AngularJS component for displaying a collection of items as a grid of boxes.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsap/cx_info_grid.git"
+  },
+  "keywords": [
+    "angularjs",
+    "jquery"
+  ],
+  "author": "@robbymillsap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamsap/cx_info_grid/issues"
+  },
+  "homepage": "https://github.com/iamsap/cx_info_grid#readme"
+}
